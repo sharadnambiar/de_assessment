@@ -169,40 +169,6 @@ END;
     return
 
 
-def load_silver_layer_data_models():
-
-    engine = create_engine(DB_CONN)
-    with engine.connect() as connection:
-        result = connection.execute(text("""
-            BEGIN;
-
-INSERT INTO silver_schema.clients_silver_layer 
-    (
-        SELECT * FROM silver_schema.clients_pre_silver_layer 
-    );
-
-INSERT INTO silver_schema.transactions_silver_layer 
-    (
-        SELECT * FROM silver_schema.transactions_pre_silver_layer 
-    );                                         
-
-INSERT INTO silver_schema.risk_factor_silver_layer 
-        (    risk_reason_id integer,
-             risk_reason_name 
-        ) 
-values (1,'High Transaction Amount'),
-       (2,'High Frequency of Transactions'),
-       (3,'High Risk Country'),
-       (4,'New device usage');                                         
-
-
-END;
-        """))
-        print("Data Models Loaded")
-
-    return
-
-
 # Step 3: Run DBT to fully construct the Silver Layer
 
 def run_dbt_silver():
@@ -246,7 +212,6 @@ if __name__ == "__main__":
     ingest_data(data_folder_path)
     clean_and_load()
     deploy_silver_layer_data_models()
-    #load_silver_layer_data_models()
     run_dbt_silver()
     run_dbt_gold()
     run_dbt_tests()
