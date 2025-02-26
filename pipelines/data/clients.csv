@@ -1,0 +1,83 @@
+client_id,name,age,city,country,contact_number
+1,Acme Corp,1,New York,USA,123456789
+2,Bold Ventures,2,London,UK,123456790
+3,Clever Solutions,3,Tokyo,Japan,123456791
+4,Dynamic Innovations,4,Sydney,Australia,123456792
+5,Efficient Technologies,5,Toronto,Canada,123456793
+6,Forward Thinking Ltd,6,Berlin,Germany,123456794
+7,Global Enterprises,7,Paris,France,123456795
+8,Horizon Industries,8,Singapore,Singapore,123456796
+9,Innovative Designs,9,Madrid,Spain,123456797
+10,Just Solutions Group,10,Dubai,UAE,123456798
+11,Knowledge Networks,11,Rome,NORTH KOREA,123456799
+12,Leading Edge Technologies,12,Seoul,IRAN,123456800
+13,MegaCorp,13,Los Angeles,USA,123456801
+14,NextGen Innovations,14,Shanghai,China,123456802
+15,Open Source Solutions,15,Amsterdam,Netherlands,123456803
+16,Pacific Technologies,16,Vancouver,Canada,123456804
+17,Quantum Innovations,17,Tel Aviv,Israel,123456805
+18,Reliable Systems,18,Stockholm,IRAN,123456806
+19,Stellar Enterprises,19,Moscow,Russia,123456807
+20,Tech Savvy Solutions,20,San Diego,USA,123456808
+21,United Global Networks,21,Sao Paulo,Brazil,123456809
+22,Vanguard Technologies,22,Dublin,Ireland,123456810
+23,Wise Innovations,23,Hong Kong,China,123456811
+24,Xenon Solutions,24,Bangalore,India,123456812
+25,Yotta Innovations,25,Nairobi,Kenya,123456813
+26,Zenith Technologies,26,Cape Town,South Africa,123456814
+27,Agile Solutions,27,Lisbon,Portugal,123456815
+28,Blue Sky Enterprises,28,Vienna,Austria,123456816
+29,Cloud Computing Ltd,29,Bucharest,Romania,123456817
+30,Crimson Dynamics,30,Copenhagen,Denmark,123456818
+31,Digital Frontiers,31,Helsinki,Finland,123456819
+32,Emerald Technologies,32,Prague,Czech Republic,123456820
+33,Fusion Innovations,33,Warsaw,Poland,123456821
+34,Galaxy Solutions,34,Oslo,Norway,123456822
+35,Horizon Systems,35,Budapest,Hungary,123456823
+36,Indigo Innovations,36,Athens,IRAN,123456824
+37,Jade Technologies,37,Zurich,Switzerland,123456825
+38,Kinetic Systems,38,Dublin,Ireland,123456826
+39,Luminous Solutions,39,Stockholm,Sweden,123456827
+40,Matrix Enterprises,40,Madrid,Spain,123456828
+41,Neon Dynamics,41,Berlin,Germany,123456829
+42,Ocean Blue Technologies,42,Seattle,USA,123456830
+43,Pacific Solutions,43,Vancouver,Canada,123456831
+44,Quantum Leap Innovations,44,Tel Aviv,Israel,123456832
+45,Radiant Enterprises,45,London,UK,123456833
+46,Sapphire Solutions,46,Toronto,Canada,123456834
+47,Terra Nova Technologies,47,Sydney,IRAN,123456835
+48,Universal Systems,48,Paris,France,123456836
+49,Vanguard Innovations,49,Mumbai,India,123456837
+50,Wavecrest Technologies,50,San Francisco,USA,123456838
+51,Xtreme Solutions,51,Berlin,NORTH KOREA,123456839
+52,Yonder Innovations,52,Tokyo,Japan,123456840
+53,Zenith Global,53,New York,USA,123456841
+54,Azure Technologies,54,Dublin,Ireland,123456842
+55,Brilliant Minds,55,Stockholm,Sweden,123456843
+56,Catalyst Enterprises,56,London,UK,123456844
+57,Data Dynamics,57,Toronto,Canada,123456845
+58,Ethereal Solutions,58,Sydney,Australia,123456846
+59,Fractal Technologies,59,Paris,France,123456847
+60,Global Network,60,Mumbai,India,123456848
+61,Hyperlink Solutions,61,Berlin,Germany,123456849
+62,Infinite Innovations,62,Tokyo,Japan,123456850
+63,Jade Dynamics,63,New York,USA,123456851
+64,Kinetic Global,64,London,UK,123456852
+65,Luminous Systems,65,Sydney,Australia,123456853
+66,Matrix Solutions,66,Toronto,Canada,123456854
+67,Neon Technologies,67,Paris,France,123456855
+68,Ocean Blue Innovations,68,Mumbai,India,123456856
+69,Pacific Systems,69,Berlin,Germany,123456857
+70,Quantum Leap Enterprises,70,London,UK,123456858
+71,Radiant Global,71,Sydney,Australia,123456859
+72,Sapphire Dynamics,72,New York,USA,123456860
+73,Terra Nova Innovations,73,Tokyo,Japan,123456861
+74,Universal Solutions,74,Berlin,Germany,123456862
+75,Vanguard Technologies,75,London,UK,123456863
+20,Tech Savvy Solutions,76,San Diego,USA,123456864
+23,Wise Innovations,77,Hong Kong,China,123456865
+44,Quantum Leap Innovations,78,Tel Aviv,Israel,123456866
+42,Ocean Blue Technologies,79,Seattle,NORTH KOREA,123456867
+61,Hyperlink Solutions,80,Berlin,Germany,123456868
+12,Leading Edge Technologies,81,Seoul,South Korea,123456869
+9,Innovative Designs,82,Madrid,Spain,123456870
