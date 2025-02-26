@@ -1,0 +1,30 @@
+
+version: 2
+
+models:
+
+  - name: risk_event_silver_layer
+    description: "Risk event silver layer"
+    columns:
+      - name: risk_event_id
+        description: "The primary key for this table"
+        tests:
+          - not_null
+
+  - name: clients_silver_layer
+    description: "Customers silver layer"
+    columns:
+      - name: client_id
+        description: "The primary key for this table"
+        tests:
+          - not_null
+          - unique
+
+  - name: transactions_silver_layer
+    description: "Sales transactions silver layer"
+    columns:
+      - name: transaction_id
+        description: "The primary key for this table"
+        tests:
+          - not_null
+          - unique

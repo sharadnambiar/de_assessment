@@ -1,0 +1,16 @@
+version: 2
+
+sources:
+  - name: silver_schema  # Schema in the database
+    description: "Cleaned data tables from bronze layer"
+    schema: silver_schema   # The schema where the source tables exist
+    tables:
+      - name: clients_silver_layer
+      - name: clients_pre_silver_layer
+      - name: transactions_silver_layer
+      - name: transactions_pre_silver_layer
+      - name: risk_event_silver_layer
+      - name: risk_factor_silver_layer
+
+
+
