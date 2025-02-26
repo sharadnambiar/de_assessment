@@ -10,7 +10,6 @@ client_id,name,age,city,country,contact_number
 9,Innovative Designs,9,Madrid,Spain,123456797
 10,Just Solutions Group,10,Dubai,UAE,123456798
 11,Knowledge Networks,11,Rome,NORTH KOREA,123456799
-12,Leading Edge Technologies,12,Seoul,IRAN,123456800
 13,MegaCorp,13,Los Angeles,USA,123456801
 14,NextGen Innovations,14,Shanghai,China,123456802
 15,Open Source Solutions,15,Amsterdam,Netherlands,123456803
@@ -77,7 +76,7 @@ client_id,name,age,city,country,contact_number
 20,Tech Savvy Solutions,76,San Diego,USA,123456864
 23,Wise Innovations,77,Hong Kong,China,123456865
 44,Quantum Leap Innovations,78,Tel Aviv,Israel,123456866
-42,Ocean Blue Technologies,79,Seattle,NORTH KOREA,123456867
+42,Ocean Blue Technologies,79,Seattle,USA,123456867
 61,Hyperlink Solutions,80,Berlin,Germany,123456868
 12,Leading Edge Technologies,81,Seoul,South Korea,123456869
 9,Innovative Designs,82,Madrid,Spain,123456870
